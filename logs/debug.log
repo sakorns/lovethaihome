@@ -1,0 +1,1272 @@
+2018-04-02 17:22:36 Debug: {
+    "id": "a075a19f-9e35-40f8-9e5e-fc8b9115421b",
+    "fullname": "Fdtech Evolution",
+    "tel": "+66992685988",
+    "email": "fdtechevolution@gmail.com",
+    "lineid": "",
+    "created": "2018-04-02T17:22:36",
+    "customer_assets": [
+        {
+            "id": "a5f4445f-be23-43d7-adca-d4d6ba56992d",
+            "zone_id": "3306241f-2270-4172-a8f2-bed2bc1f6402",
+            "customer_id": "a075a19f-9e35-40f8-9e5e-fc8b9115421b",
+            "description": "\u0e17\u0e33\u0e2a\u0e2d\u0e1a\u0e23\u0e30\u0e1a\u0e1a",
+            "asset_type_id": "185c82af-6b9a-45b1-b4d7-e8b62253dc6b",
+            "asset_type_des": "",
+            "created": "2018-04-02T17:22:36",
+            "floor_total": null,
+            "bedroom": null,
+            "bathroom": null,
+            "kitchen_room": null,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": null,
+            "area_ngan": null,
+            "area_wah": null,
+            "area_meter": null,
+            "price_per_wah": null,
+            "price_amounnt": 0,
+            "isreqconsult": "N",
+            "type": "P",
+            "budgets": "1.5-3",
+            "address_id": null,
+            "asset_type": {
+                "id": "185c82af-6b9a-45b1-b4d7-e8b62253dc6b",
+                "name": "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e14\u0e35\u0e48\u0e22\u0e27",
+                "pic": "1500540135_607442.jpg",
+                "created": "2016-12-17T21:18:59",
+                "breatedby": null,
+                "seq": 10
+            }
+        }
+    ]
+}
+2018-04-02 17:22:36 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-02 17:26:09 Debug: {
+    "id": "34f2d23e-736a-4fa3-8f76-3d8480723cd0",
+    "fullname": "Fdtech Evolution",
+    "tel": "+66992685988",
+    "email": "fdtechevolution@gmail.com",
+    "lineid": "",
+    "created": "2018-04-02T17:26:09",
+    "customer_assets": [
+        {
+            "id": "af42d7ee-3283-461b-bae3-5dc56f13f668",
+            "zone_id": "3306241f-2270-4172-a8f2-bed2bc1f6402",
+            "customer_id": "34f2d23e-736a-4fa3-8f76-3d8480723cd0",
+            "description": "\u0e17\u0e14\u0e2a\u0e2d\u0e1a\u0e23\u0e30\u0e1a\u0e1a",
+            "asset_type_id": "17ca334e-f836-47e6-9f80-e4fc1c745b7c",
+            "asset_type_des": "",
+            "created": "2018-04-02T17:26:09",
+            "floor_total": null,
+            "bedroom": null,
+            "bathroom": null,
+            "kitchen_room": null,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": null,
+            "area_ngan": null,
+            "area_wah": null,
+            "area_meter": null,
+            "price_per_wah": null,
+            "price_amounnt": 0,
+            "isreqconsult": "N",
+            "type": "P",
+            "budgets": "1.5-3",
+            "address_id": null,
+            "asset_type": {
+                "id": "17ca334e-f836-47e6-9f80-e4fc1c745b7c",
+                "name": "\u0e42\u0e01\u0e14\u0e31\u0e07 \u0e2d\u0e1e\u0e32\u0e23\u0e4c\u0e15\u0e40\u0e21\u0e49\u0e19\u0e17\u0e4c \u0e2d\u0e37\u0e48\u0e19\u0e46",
+                "pic": "1502166016_412052.jpg",
+                "created": "2016-12-17T21:15:28",
+                "breatedby": null,
+                "seq": 80
+            }
+        }
+    ]
+}
+2018-04-02 17:26:09 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-02 17:48:42 Debug: {
+    "id": "6ff49a66-dbc8-4f76-8e67-2244bf8bded3",
+    "fullname": " \u0e40\u0e01\u0e23\u0e35\u0e22\u0e07\u0e28\u0e31\u0e01\u0e14\u0e34\u0e4c \u0e27\u0e48\u0e2d\u0e07\u0e44\u0e27\u0e21\u0e2b\u0e32\u0e28\u0e32\u0e25",
+    "tel": "0844241323",
+    "email": "gamerztar@gmail.com",
+    "lineid": "pongies",
+    "created": "2018-04-02T17:48:42",
+    "customer_assets": [
+        {
+            "id": "69657822-f986-4ef1-8189-71f59d89621e",
+            "zone_id": null,
+            "customer_id": "6ff49a66-dbc8-4f76-8e67-2244bf8bded3",
+            "description": "\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19\u0e40\u0e1b\u0e25\u0e48\u0e32\u0e16\u0e21\u0e41\u0e25\u0e49\u0e27\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e01\u0e48\u0e2d\u0e2a\u0e23\u0e49\u0e32\u0e07 \u0e02\u0e19\u0e32\u0e14 184.5 \u0e15\u0e32\u0e23\u0e32\u0e07\u0e27\u0e32 \u0e2b\u0e19\u0e49\u0e32\u0e01\u0e27\u0e49\u0e32\u0e07 29 \u0e40\u0e21\u0e15\u0e23 \u0e25\u0e35\u0e01\u0e14\u0e49\u0e32\u0e19\u0e0b\u0e49\u0e32\u0e22 33 \u0e40\u0e21\u0e15\u0e23 \u0e14\u0e49\u0e32\u0e19\u0e02\u0e27\u0e32 30 \u0e40\u0e21\u0e15\u0e23 \u0e41\u0e19\u0e27\u0e14\u0e49\u0e32\u0e43\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e19\u0e27\u0e40\u0e09\u0e25\u0e35\u0e22\u0e07. \u0e15\u0e31\u0e49\u0e07\u0e2d\u0e22\u0e39\u0e48\u0e1a\u0e19\u0e16\u0e19\u0e19\u0e2d\u0e31\u0e28\u0e27\u0e1e\u0e34\u0e40\u0e0a\u0e29\u0e10\u0e4c \u0e2b\u0e19\u0e49\u0e32\u0e16\u0e19\u0e19\u0e02\u0e49\u0e32\u0e07\u0e23\u0e49\u0e32\u0e19\u0e23\u0e32\u0e14\u0e2b\u0e19\u0e49\u0e32\u0e14\u0e31\u0e07 \u0e16\u0e21\u0e40\u0e15\u0e23\u0e35\u0e22\u0e21\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e01\u0e48\u0e2d\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e41\u0e25\u0e49\u0e27 \u0e42\u0e09\u0e19\u0e14\u0e40\u0e1b\u0e47\u0e19\u0e1c\u0e37\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27 \u0e17\u0e35\u0e48\u0e14\u0e34\u0e19\u0e23\u0e2d\u0e1a\u0e02\u0e49\u0e32\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e2d\u0e32\u0e04\u0e32\u0e23\u0e1e\u0e32\u0e19\u0e34\u0e0a\u0e22\u0e4c \u0e2d\u0e32\u0e04\u0e32\u0e23\u0e14\u0e49\u0e32\u0e19\u0e0b\u0e49\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e02\u0e2d\u0e07\u0e0d\u0e32\u0e15\u0e34\u0e40\u0e08\u0e49\u0e32\u0e02\u0e2d\u0e07 \u0e16\u0e49\u0e32\u0e1c\u0e39\u0e49\u0e0b\u0e37\u0e49\u0e2d\u0e08\u0e30\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e2d\u0e30\u0e44\u0e23\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e04\u0e38\u0e22\u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e2d\u0e32\u0e08\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e27\u0e49\u0e19 \u0e17\u0e35\u0e48\u0e40\u0e1e\u0e35\u0e48\u0e2d\u0e01\u0e48\u0e2d\u0e01\u0e33\u0e41\u0e1e\u0e07.\r\n\r\n\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e40\u0e02\u0e49\u0e32\u0e21\u0e32\u0e44\u0e14\u0e49 2 \u0e0a\u0e48\u0e2d\u0e07\u0e17\u0e32\u0e07\u0e08\u0e32\u0e01\u0e17\u0e31\u0e49\u0e07 \u0e16\u0e19\u0e19 \u0e01\u0e32\u0e0d\u0e08\u0e19\u0e32\u0e20\u0e34\u0e40\u0e29\u0e01 \u0e41\u0e25\u0e30 \u0e16\u0e19\u0e19 \u0e1a\u0e23\u0e21\u0e23\u0e32\u0e0a\u0e0a\u0e19\u0e19\u0e35 \u0e41\u0e25\u0e30\u0e22\u0e31\u0e07\u0e21\u0e35\u0e1e\u0e25\u0e32\u0e0b\u0e48\u0e32(PASEO PARK) \u0e2d\u0e22\u0e39\u0e48\u0e15\u0e23\u0e07\u0e02\u0e49\u0e32\u0e21\u0e21\u0e35\u0e41\u0e2b\u0e25\u0e48\u0e07\u0e0a\u0e38\u0e21\u0e0a\u0e19 \u0e41\u0e25\u0e30\u0e2b\u0e21\u0e39\u0e48\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e2b\u0e21\u0e32\u0e30\u0e17\u0e35\u0e48\u0e08\u0e30\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e17\u0e31\u0e49\u0e07\u0e2d\u0e32\u0e04\u0e32\u0e23\u0e1e\u0e32\u0e19\u0e34\u0e0a\u0e22\u0e4c\u0e2b\u0e23\u0e37\u0e2d\u0e17\u0e35\u0e48\u0e34\u0e2d\u0e22\u0e39\u0e48\u0e2d\u0e32\u0e28\u0e31\u0e22",
+            "asset_type_id": "cf8962f0-dbde-42b6-a7c3-484cb106b932",
+            "asset_type_des": "",
+            "created": "2018-04-02T17:48:42",
+            "floor_total": 0,
+            "bedroom": 0,
+            "bathroom": 0,
+            "kitchen_room": 0,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": 0,
+            "area_ngan": 1,
+            "area_wah": 85,
+            "area_meter": 738,
+            "price_per_wah": null,
+            "price_amounnt": 12500000,
+            "isreqconsult": "N",
+            "type": "S",
+            "budgets": null,
+            "address_id": "2d315949-3c59-426c-afb6-fba89ea59f22",
+            "asset_type": {
+                "id": "cf8962f0-dbde-42b6-a7c3-484cb106b932",
+                "name": "\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19\u0e40\u0e1b\u0e25\u0e48\u0e32",
+                "pic": "1500545981_385092.jpg",
+                "created": "2016-12-17T21:14:47",
+                "breatedby": null,
+                "seq": 70
+            }
+        }
+    ]
+}
+2018-04-02 17:48:42 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-02 23:26:52 Debug: {
+    "id": "2637c3ad-3161-4de0-82b3-65bd591dda88",
+    "fullname": "\u0e18\u0e19\u0e32",
+    "tel": "0818451633",
+    "email": "",
+    "lineid": "kengtv",
+    "created": "2018-04-02T23:26:52",
+    "customer_assets": [
+        {
+            "id": "03306b86-40fd-4dbb-9114-af365f45e5f3",
+            "zone_id": "3306241f-2270-4172-a8f2-bed2bc1f6402",
+            "customer_id": "2637c3ad-3161-4de0-82b3-65bd591dda88",
+            "description": "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e14\u0e35\u0e48\u0e22\u0e27\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48 60-130 \u0e15\u0e23.\u0e27. \u0e40\u0e02\u0e49\u0e32\u0e0b\u0e2d\u0e22 \u0e2b\u0e48\u0e32\u0e07\u0e16.\u0e2a\u0e38\u0e02\u0e38\u0e21\u0e27\u0e34\u0e17\u0e44\u0e21\u0e48\u0e40\u0e01\u0e34\u0e19 1 \u0e01\u0e21. \u0e0b\u0e2d\u0e22\u0e1d\u0e19\u0e15\u0e01\u0e19\u0e49\u0e33\u0e44\u0e21\u0e48\u0e17\u0e48\u0e27\u0e21 \u0e42\u0e0b\u0e19\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48 bts\u0e2d\u0e48\u0e2d\u0e19\u0e19\u0e38\u0e0a\u0e44\u0e1b\u0e16\u0e36\u0e07 bts\u0e1b\u0e38\u0e13\u0e13\u0e27\u0e34\u0e16\u0e35 ",
+            "asset_type_id": "185c82af-6b9a-45b1-b4d7-e8b62253dc6b",
+            "asset_type_des": "",
+            "created": "2018-04-02T23:26:52",
+            "floor_total": null,
+            "bedroom": null,
+            "bathroom": null,
+            "kitchen_room": null,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": null,
+            "area_ngan": null,
+            "area_wah": null,
+            "area_meter": null,
+            "price_per_wah": null,
+            "price_amounnt": 0,
+            "isreqconsult": "N",
+            "type": "P",
+            "budgets": "10-20",
+            "address_id": null,
+            "asset_type": {
+                "id": "185c82af-6b9a-45b1-b4d7-e8b62253dc6b",
+                "name": "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e14\u0e35\u0e48\u0e22\u0e27",
+                "pic": "1500540135_607442.jpg",
+                "created": "2016-12-17T21:18:59",
+                "breatedby": null,
+                "seq": 10
+            }
+        }
+    ]
+}
+2018-04-02 23:26:52 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-03 11:48:43 Debug: {
+    "id": "762f5f20-4d1a-49c4-9119-f3fadd09f85f",
+    "fullname": "\u0e1e\u0e34\u0e0a\u0e0d\u0e32\u0e20\u0e31\u0e04 \u0e1b\u0e23\u0e30\u0e08\u0e27\u0e1a\u0e01\u0e25\u0e32\u0e07",
+    "tel": "0885953440",
+    "email": "fang.kaofang.1808@gmail.com",
+    "lineid": "kaofangpit",
+    "created": "2018-04-03T11:48:43",
+    "customer_assets": [
+        {
+            "id": "051fbd8b-98ab-4b31-9770-e55a7ba4dd57",
+            "zone_id": null,
+            "customer_id": "762f5f20-4d1a-49c4-9119-f3fadd09f85f",
+            "description": "",
+            "asset_type_id": "185c82af-6b9a-45b1-b4d7-e8b62253dc6b",
+            "asset_type_des": "\u0e2d\u0e1e\u0e32\u0e23\u0e4c\u0e17\u0e40\u0e21\u0e49\u0e19\u0e17\u0e4c",
+            "created": "2018-04-03T11:48:43",
+            "floor_total": 2,
+            "bedroom": 4,
+            "bathroom": 3,
+            "kitchen_room": 1,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": null,
+            "area_ngan": null,
+            "area_wah": 287,
+            "area_meter": null,
+            "price_per_wah": null,
+            "price_amounnt": 13,
+            "isreqconsult": "N",
+            "type": "S",
+            "budgets": null,
+            "address_id": "393b84d3-6ca2-476a-b8c3-253e5e99dfd5",
+            "asset_type": {
+                "id": "185c82af-6b9a-45b1-b4d7-e8b62253dc6b",
+                "name": "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e14\u0e35\u0e48\u0e22\u0e27",
+                "pic": "1500540135_607442.jpg",
+                "created": "2016-12-17T21:18:59",
+                "breatedby": null,
+                "seq": 10
+            }
+        }
+    ]
+}
+2018-04-03 11:48:43 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-03 12:12:03 Debug: {
+    "id": "ed769563-2e00-4af4-90df-42b255837135",
+    "fullname": "\u0e08\u0e2d\u0e22",
+    "tel": "0626365362",
+    "email": "joysri2012@gmail.com",
+    "lineid": "Khunjoysri2013",
+    "created": "2018-04-03T12:12:03",
+    "customer_assets": [
+        {
+            "id": "58ce5f8e-8c61-446e-adbb-e7b98733a74f",
+            "zone_id": null,
+            "customer_id": "ed769563-2e00-4af4-90df-42b255837135",
+            "description": "\u0e02\u0e32\u0e22\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19\u0e40\u0e1b\u0e25\u0e48\u0e32\u200b 14\u0e44\u0e23\u0e48\u200b \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e42\u0e23\u0e07\u0e40\u0e23\u0e37\u0e2d\u0e19\u200b \u0e43\u0e01\u0e25\u0e49\u0e19\u0e49\u0e33\u0e15\u0e01\u0e1e\u0e25\u0e34\u0e49\u0e27\u200b  \u0e2d\u0e22\u0e39\u0e48\u0e16\u0e31\u0e14\u0e08\u0e32\u0e01 \u0e19\u0e49\u0e33\u0e15\u0e01\u0e15\u0e23\u0e2d\u0e01\u0e19\u0e2d\u0e07 \u0e40\u0e02\u0e49\u0e32 \u0e0b. \u0e2d\u0e38\u0e14\u0e21\u0e28\u0e34\u0e23\u0e34 \u0e19\u0e34\u0e14\u0e40\u0e14\u0e35\u0e22\u0e27 \u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e17\u0e33\u0e40\u0e1b\u0e47\u0e19\u0e42\u0e2e\u0e21\u0e2a\u0e40\u0e15\u0e22\u0e4c\u200b \u0e23\u0e35\u0e2a\u0e2d\u0e23\u0e4c\u0e17\u200b \u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e31\u0e01\u200b \u0e23\u0e32\u0e04\u0e32\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e2a\u0e38\u0e14\u0e46\u200b \u0e2a\u0e19\u0e43\u0e08\u0e17\u0e31\u0e01\u0e21\u0e32\u0e17\u0e35\u0e48\u0e08\u0e2d\u0e22\u0e44\u0e14\u0e49\u0e40\u0e25\u0e22\u200b 0626365362\u200b \u0e44\u0e25\u0e19\u0e4c\u200b khunjoysri2013",
+            "asset_type_id": "cf8962f0-dbde-42b6-a7c3-484cb106b932",
+            "asset_type_des": "",
+            "created": "2018-04-03T12:12:03",
+            "floor_total": null,
+            "bedroom": null,
+            "bathroom": null,
+            "kitchen_room": null,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": 14,
+            "area_ngan": null,
+            "area_wah": null,
+            "area_meter": null,
+            "price_per_wah": null,
+            "price_amounnt": 6700000,
+            "isreqconsult": "N",
+            "type": "S",
+            "budgets": null,
+            "address_id": "da988aed-ac7b-4d90-85b7-269abebdfb4d",
+            "asset_type": {
+                "id": "cf8962f0-dbde-42b6-a7c3-484cb106b932",
+                "name": "\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19\u0e40\u0e1b\u0e25\u0e48\u0e32",
+                "pic": "1500545981_385092.jpg",
+                "created": "2016-12-17T21:14:47",
+                "breatedby": null,
+                "seq": 70
+            }
+        }
+    ]
+}
+2018-04-03 12:12:03 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-03 16:41:34 Debug: {
+    "id": "9027c01e-6bd0-4644-8686-0b92f44aef23",
+    "fullname": "\u0e1b\u0e32\u0e23\u0e4c\u0e15\u0e35\u0e49",
+    "tel": "0982686955",
+    "email": "",
+    "lineid": "",
+    "created": "2018-04-03T16:41:34",
+    "customer_assets": [
+        {
+            "id": "7a343f35-1caa-4faa-ab96-7847a64f5753",
+            "zone_id": null,
+            "customer_id": "9027c01e-6bd0-4644-8686-0b92f44aef23",
+            "description": "\u0e2b\u0e21\u0e39\u0e48\u0e1a\u0e49\u0e32\u0e19\u0e1f\u0e25\u0e2d\u0e23\u0e48\u0e32\u0e27\u0e34\u0e25\u0e25\u0e4c \u0e1e\u0e32\u0e23\u0e4c\u0e04 \u0e0b\u0e34\u0e15\u0e35\u0e49\r\n\u0e15\u0e23\u0e07\u0e02\u0e49\u0e32\u0e21\u0e0b\u0e35\u0e1e\u0e35\r\n\u0e08\u0e2d\u0e14\u0e23\u0e16\u0e43\u0e19\u0e23\u0e31\u0e49\u0e27\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e14\u0e49 2 \u0e04\u0e31\u0e19\r\n\u0e19\u0e37 \u0e2d\u0e19\r\n\r\n\r\n\r\n\r\n\r\n",
+            "asset_type_id": "185c82af-6b9a-45b1-b4d7-e8b62253dc6b",
+            "asset_type_des": "",
+            "created": "2018-04-03T16:41:34",
+            "floor_total": 2,
+            "bedroom": 5,
+            "bathroom": 3,
+            "kitchen_room": 1,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": null,
+            "area_ngan": null,
+            "area_wah": 50,
+            "area_meter": null,
+            "price_per_wah": null,
+            "price_amounnt": 2600000,
+            "isreqconsult": "N",
+            "type": "S",
+            "budgets": null,
+            "address_id": "8c9da643-3e6e-402b-997a-92406d829fc9",
+            "asset_type": {
+                "id": "185c82af-6b9a-45b1-b4d7-e8b62253dc6b",
+                "name": "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e14\u0e35\u0e48\u0e22\u0e27",
+                "pic": "1500540135_607442.jpg",
+                "created": "2016-12-17T21:18:59",
+                "breatedby": null,
+                "seq": 10
+            }
+        }
+    ]
+}
+2018-04-03 16:41:34 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-03 16:41:54 Debug: {
+    "id": "743a1133-8587-4af7-bfe9-781d9ac49143",
+    "fullname": "\u0e1b\u0e32\u0e23\u0e4c\u0e15\u0e35\u0e49",
+    "tel": "0982686955",
+    "email": "",
+    "lineid": "",
+    "created": "2018-04-03T16:41:54",
+    "customer_assets": [
+        {
+            "id": "703b5479-51be-43b0-a41d-26bad5cf1a12",
+            "zone_id": null,
+            "customer_id": "743a1133-8587-4af7-bfe9-781d9ac49143",
+            "description": "\u0e2b\u0e21\u0e39\u0e48\u0e1a\u0e49\u0e32\u0e19\u0e1f\u0e25\u0e2d\u0e23\u0e48\u0e32\u0e27\u0e34\u0e25\u0e25\u0e4c \u0e1e\u0e32\u0e23\u0e4c\u0e04 \u0e0b\u0e34\u0e15\u0e35\u0e49\r\n\u0e15\u0e23\u0e07\u0e02\u0e49\u0e32\u0e21\u0e0b\u0e35\u0e1e\u0e35\r\n\u0e08\u0e2d\u0e14\u0e23\u0e16\u0e43\u0e19\u0e23\u0e31\u0e49\u0e27\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e14\u0e49 2 \u0e04\u0e31\u0e19\r\n\u0e19\u0e37 \u0e2d\u0e19\r\n\r\n\r\n\r\n\r\n\r\n",
+            "asset_type_id": "185c82af-6b9a-45b1-b4d7-e8b62253dc6b",
+            "asset_type_des": "",
+            "created": "2018-04-03T16:41:54",
+            "floor_total": 2,
+            "bedroom": 5,
+            "bathroom": 3,
+            "kitchen_room": 1,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": null,
+            "area_ngan": null,
+            "area_wah": 50,
+            "area_meter": null,
+            "price_per_wah": null,
+            "price_amounnt": 2600000,
+            "isreqconsult": "N",
+            "type": "S",
+            "budgets": null,
+            "address_id": "889cf1f2-abdc-4e52-b1f9-70b77d8e0428",
+            "asset_type": {
+                "id": "185c82af-6b9a-45b1-b4d7-e8b62253dc6b",
+                "name": "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e14\u0e35\u0e48\u0e22\u0e27",
+                "pic": "1500540135_607442.jpg",
+                "created": "2016-12-17T21:18:59",
+                "breatedby": null,
+                "seq": 10
+            }
+        }
+    ]
+}
+2018-04-03 16:41:54 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-03 19:32:11 Debug: {
+    "id": "ddd18e1a-cdd8-48f8-9be0-1035a4f18c32",
+    "fullname": "\u0e28\u0e28\u0e34\u0e18\u0e23",
+    "tel": "0802565345",
+    "email": "bo.wee1@hotmail.com",
+    "lineid": "sasitorn.bow",
+    "created": "2018-04-03T19:32:11",
+    "customer_assets": [
+        {
+            "id": "bbf10e3e-5fa3-4bfe-aba3-c8b88c663498",
+            "zone_id": null,
+            "customer_id": "ddd18e1a-cdd8-48f8-9be0-1035a4f18c32",
+            "description": "",
+            "asset_type_id": "cf8962f0-dbde-42b6-a7c3-484cb106b932",
+            "asset_type_des": "",
+            "created": "2018-04-03T19:32:11",
+            "floor_total": null,
+            "bedroom": null,
+            "bathroom": null,
+            "kitchen_room": null,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": 12,
+            "area_ngan": null,
+            "area_wah": 69,
+            "area_meter": null,
+            "price_per_wah": null,
+            "price_amounnt": 0,
+            "isreqconsult": "N",
+            "type": "S",
+            "budgets": null,
+            "address_id": "e045bb4f-5850-479d-9c39-bac5681da776",
+            "asset_type": {
+                "id": "cf8962f0-dbde-42b6-a7c3-484cb106b932",
+                "name": "\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19\u0e40\u0e1b\u0e25\u0e48\u0e32",
+                "pic": "1500545981_385092.jpg",
+                "created": "2016-12-17T21:14:47",
+                "breatedby": null,
+                "seq": 70
+            }
+        }
+    ]
+}
+2018-04-03 19:32:11 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-04 11:10:25 Notice: Notice (8): Undefined index: amphur_id in [/home/admin/domains/lovethaihome.com/public_html/src/Controller/AssetsController.php, line 289]
+Request URL: /assets/formsearch
+Referer URL: http://www.lovethaihome.com/
+Client IP: 124.121.72.236
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+App\Controller\AssetsController::formsearch() - APP/Controller/AssetsController.php, line 289
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2018-04-04 11:42:36 Debug: {
+    "id": "6e30516a-188b-409c-a015-fe9c234a2125",
+    "fullname": "\u0e42\u0e04\u0e23\u0e07\u0e01\u0e32\u0e23 \u0e14\u0e34 \u0e41\u0e2d\u0e2a\u0e40\u0e0b\u0e17 (\u0e42\u0e08)",
+    "tel": "0853355900",
+    "email": "wiyaphorn.csw@gmail.com",
+    "lineid": "0853355900",
+    "created": "2018-04-04T11:42:36",
+    "customer_assets": [
+        {
+            "id": "454f4e21-4cf6-452f-814d-3364152dcaf2",
+            "zone_id": null,
+            "customer_id": "6e30516a-188b-409c-a015-fe9c234a2125",
+            "description": "\u0e42\u0e04\u0e23\u0e07\u0e01\u0e32\u0e23\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19\u0e17\u0e35\u0e48\u0e41\u0e1b\u0e25\u0e07\u0e25\u0e30100 \u0e15\u0e32\u0e23\u0e32\u0e07\u0e27\u0e32 \u0e08\u0e19\u0e16\u0e36\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e23\u0e48\r\n\u0e1a\u0e19\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e17\u0e33 \u0e42\u0e23\u0e07\u0e07\u0e32\u0e19\/\u0e42\u0e01\u0e14\u0e31\u0e07\/\u0e42\u0e2e\u0e21\u0e2d\u0e2d\u0e1f\u0e1f\u0e34\u0e28\/\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e31\u0e01\u0e2d\u0e32\u0e28\u0e31\u0e22\r\n\u0e23\u0e30\u0e1a\u0e1a\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e39\u0e1b\u0e42\u0e20\u0e04 \u0e44\u0e1f\u0e1f\u0e49\u0e32 \u0e19\u0e49\u0e33\u0e1b\u0e23\u0e30\u0e1b\u0e32 \u0e16\u0e19\u0e19\u0e04\u0e2d\u0e19\u0e01\u0e23\u0e35\u0e15\u0e40\u0e2a\u0e23\u0e34\u0e21\u0e40\u0e2b\u0e25\u0e47\u0e01 \u0e23\u0e30\u0e1a\u0e1a\u0e23\u0e30\u0e1a\u0e32\u0e22\u0e19\u0e49\u0e33 \u0e42\u0e17\u0e23\u0e28\u0e31\u0e1e\u0e17\u0e4c \u0e2d\u0e34\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e40\u0e19\u0e47\u0e15\r\n\u0e42\u0e09\u0e19\u0e14\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e42\u0e2d\u0e19\u0e44\u0e21\u0e48\u0e15\u0e34\u0e14\u0e20\u0e32\u0e23\u0e30\u0e1c\u0e39\u0e01\u0e1e\u0e31\u0e19\u0e43\u0e14\u0e46\u0e17\u0e31\u0e49\u0e07\u0e2a\u0e34\u0e49\u0e19 \u0e21\u0e31\u0e48\u0e19\u0e43\u0e08 \u0e2b\u0e21\u0e14\u0e01\u0e31\u0e07\u0e27\u0e25\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e0b\u0e37\u0e49\u0e2d\u0e41\u0e25\u0e49\u0e27\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e42\u0e2d\u0e19\r\n\u0e27\u0e34\u0e18\u0e35\u0e01\u0e32\u0e23\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e08\u0e49\u0e32\u0e02\u0e2d\u0e07\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08\u0e41\u0e1a\u0e1a\u0e07\u0e48\u0e32\u0e22\u0e46\r\n*\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e02\u0e19\u0e32\u0e14\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19\u0e17\u0e35\u0e48\u0e04\u0e38\u0e13\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23 \u0e08\u0e32\u0e01\u0e41\u0e1c\u0e19\u0e1c\u0e31\u0e07\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32\r\n*\u0e2d\u0e2d\u0e01\u0e41\u0e1a\u0e1a\u0e42\u0e23\u0e07\u0e07\u0e32\u0e19 \u0e41\u0e25\u0e30 \u0e04\u0e25\u0e31\u0e07\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32 \u0e17\u0e35\u0e48\u0e40\u0e2b\u0e21\u0e32\u0e30\u0e2a\u0e21\u0e01\u0e31\u0e1a\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08\u0e04\u0e38\u0e13\r\n*\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e02\u0e2d\u0e2a\u0e34\u0e19\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e42\u0e14\u0e22\u0e17\u0e35\u0e21\u0e07\u0e32\u0e19\u0e04\u0e38\u0e13\u0e20\u0e32\u0e1e\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32\r\n\r\n\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e02\u0e32\u0e22 \u0e16\u0e19\u0e19 \u0e1a\u0e32\u0e07\u0e1a\u0e31\u0e27\u0e17\u0e2d\u0e07-\u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13\u0e1a\u0e38\u0e23\u0e35 (340 )\r\n\u0e15\u0e33\u0e1a\u0e25\u0e25\u0e30\u0e2b\u0e32\u0e23 \u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1a\u0e32\u0e07\u0e1a\u0e31\u0e27\u0e17\u0e2d\u0e07 \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e19\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35 \r\n*\u0e1d\u0e31\u0e48\u0e07\u0e15\u0e23\u0e07\u0e02\u0e49\u0e32\u0e21\u0e2b\u0e21\u0e39\u0e48\u0e1a\u0e49\u0e32\u0e19\u0e0b\u0e37\u0e48\u0e2d\u0e15\u0e23\u0e07\u0e1a\u0e32\u0e07\u0e43\u0e2b\u0e0d\u0e48\r\n*\u0e40\u0e25\u0e22\u0e1b\u0e32\u0e01\u0e17\u0e32\u0e07\u0e40\u0e02\u0e49\u0e32 \u0e17\u0e35\u0e48\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1a\u0e32\u0e07\u0e1a\u0e31\u0e27\u0e17\u0e2d\u0e07 \u0e19\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35\r\n\u0e40\u0e27\u0e25\u0e32\u0e17\u0e33\u0e01\u0e32\u0e23: (\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c - \u0e40\u0e2a\u0e32\u0e23\u0e4c \u0e40\u0e27\u0e25\u0e32 9:00 \u0e19. \u2013 18:00 \u0e19.)\r\n\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e2b\u0e15\u0e38: \u0e17\u0e32\u0e07\u0e42\u0e04\u0e23\u0e07\u0e01\u0e32\u0e23\u0e40\u0e23\u0e32\u0e21\u0e35\u0e23\u0e16\u0e1e\u0e32\u0e25\u0e39\u0e01\u0e04\u0e49\u0e32\u0e40\u0e02\u0e49\u0e32\u0e0a\u0e21\u0e42\u0e04\u0e23\u0e07\u0e01\u0e32\u0e23 \r\n\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e2a\u0e30\u0e14\u0e27\u0e01\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e21\u0e15\u0e48\u0e2d\u0e16\u0e19\u0e19\u0e2a\u0e32\u0e22\u0e2b\u0e25\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2a\u0e32\u0e22\r\n\u0e43\u0e01\u0e25\u0e49\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e01\u0e23\u0e30\u0e08\u0e32\u0e22\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32 7 eleven , Lotus, Top \u0e0b\u0e36\u0e48\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e01\u0e23\u0e30\u0e08\u0e32\u0e22\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32\u0e17\u0e35\u0e48\u0e43\u0e2b\u0e0d\u0e48\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e43\u0e19\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22 \r\n\u0e23\u0e30\u0e1a\u0e1a\u0e02\u0e19\u0e2a\u0e48\u0e07\u0e2b\u0e48\u0e32\u0e07\u0e08\u0e32\u0e01\u0e2a\u0e32\u0e22\u0e27\u0e07\u0e41\u0e2b\u0e27\u0e19\u0e15\u0e30\u0e27\u0e31\u0e19\u0e15\u0e01\u0e41\u0e25\u0e30\u0e23\u0e16\u0e44\u0e1f\u0e1f\u0e49\u0e32\u0e2a\u0e32\u0e22\u0e2a\u0e35\u0e21\u0e48\u0e27\u0e07(\u0e1a\u0e32\u0e07\u0e43\u0e2b\u0e0d\u0e48) BTS \u0e1b\u0e23\u0e30\u0e21\u0e32\u0e13 15 \u0e19\u0e32\u0e17\u0e35\r\n\r\n\u0e42\u0e1b\u0e23\u0e42\u0e21\u0e0a\u0e31\u0e48\u0e19 \u0e09\u0e25\u0e2d\u0e07\u0e42\u0e04\u0e23\u0e07\u0e01\u0e32\u0e23 2 \u0e42\u0e1b\u0e23\u0e41\u0e23\u0e07!!! \u0e41\u0e1b\u0e25\u0e07 HOT!!! #\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e25\u0e07\u0e17\u0e38\u0e19\u0e44\u0e14\u0e49\u0e43\u0e19\u0e41\u0e1a\u0e1a\u0e17\u0e35\u0e48\u0e04\u0e38\u0e13\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\r\n1. Promotion...\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19 120 \u0e15\u0e23.\u0e27. + \u0e42\u0e23\u0e07\u0e07\u0e32\u0e19 96 \u0e15\u0e23.\u0e21. \u0e23\u0e32\u0e04\u0e32 1.95 \u0e25\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e17 (\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19)\r\n2. Promotion... \u0e17\u0e35\u0e48\u0e14\u0e34\u0e19 130 \u0e15\u0e23.\u0e27. + \u0e42\u0e23\u0e07\u0e07\u0e32\u0e19 96 \u0e15\u0e23.\u0e21. \u0e23\u0e32\u0e04\u0e32 2.07 \u0e25\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e17\r\n3. Promotion... \u0e17\u0e35\u0e48\u0e14\u0e34\u0e19 160 \u0e15\u0e23.\u0e27. + \u0e42\u0e23\u0e07\u0e07\u0e32\u0e19 96 \u0e15\u0e23.\u0e21. \u0e23\u0e32\u0e04\u0e32 2.46 \u0e25\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e17\r\n4. Promotion... \u0e17\u0e35\u0e48\u0e14\u0e34\u0e19 1 \u0e44\u0e23\u0e48 + \u0e42\u0e23\u0e07\u0e07\u0e32\u0e19 216 \u0e15\u0e23.\u0e21. \u0e23\u0e32\u0e04\u0e32 5.9 \u0e25\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e17 (\u0e42\u0e1b\u0e23\u0e2fHOT)\r\n5. Promotion... \u0e17\u0e35\u0e48\u0e14\u0e34\u0e19 2 \u0e44\u0e23\u0e48 +\u0e42\u0e23\u0e07\u0e07\u0e32\u0e19 400 \u0e15\u0e23.\u0e21. \u0e23\u0e32\u0e04\u0e32 12 \u0e25\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e17\r\n\r\n\u0e42\u0e17\u0e23\u0e2b\u0e32\u0e40\u0e23\u0e32\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e23\u0e31\u0e1a\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e1e\u0e34\u0e40\u0e28\u0e29 \u0e1f\u0e23\u0e35\u0e2d\u0e35\u0e01 3 \u0e15\u0e48\u0e2d\t\r\n\u0e15\u0e48\u0e2d\u0e17\u0e35\u0e48 1 \u0e2d\u0e2d\u0e01\u0e41\u0e1a\u0e1a\u0e42\u0e23\u0e07\u0e07\u0e32\u0e19\u0e2b\u0e23\u0e37\u0e2d\u0e04\u0e25\u0e31\u0e07\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32 \r\n\u0e15\u0e48\u0e2d\u0e17\u0e35\u0e48 2 \u0e02\u0e2d\u0e43\u0e1a\u0e2d\u0e19\u0e38\u0e0d\u0e32\u0e15\u0e01\u0e48\u0e2d\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e2f \r\n\u0e15\u0e48\u0e2d\u0e17\u0e35\u0e48 3 \u0e04\u0e48\u0e32\u0e18\u0e23\u0e23\u0e21\u0e40\u0e19\u0e35\u0e22\u0e21\u0e41\u0e25\u0e30\u0e20\u0e32\u0e29\u0e35\u0e01\u0e32\u0e23\u0e42\u0e2d\u0e19\r\n\r\n(\u0e2a\u0e19\u0e43\u0e08\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e2a\u0e2d\u0e1a\u0e16\u0e32\u0e21 \u0e23\u0e32\u0e22\u0e25\u0e30\u0e40\u0e2d\u0e35\u0e22\u0e14\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21)\r\nTel : 085-3355900 (\u0e42\u0e08)\r\nID Line : 0853355900\r\n\u0e2a\u0e19\u0e43\u0e08\u0e14\u0e39\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48 http:\/\/www.csw.co.th\r\n",
+            "asset_type_id": "cf8962f0-dbde-42b6-a7c3-484cb106b932",
+            "asset_type_des": "",
+            "created": "2018-04-04T11:42:36",
+            "floor_total": null,
+            "bedroom": null,
+            "bathroom": null,
+            "kitchen_room": null,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": null,
+            "area_ngan": null,
+            "area_wah": 130,
+            "area_meter": null,
+            "price_per_wah": null,
+            "price_amounnt": 0,
+            "isreqconsult": "N",
+            "type": "S",
+            "budgets": null,
+            "address_id": "44e12d85-586b-4d01-ae38-249715e49a1e",
+            "asset_type": {
+                "id": "cf8962f0-dbde-42b6-a7c3-484cb106b932",
+                "name": "\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19\u0e40\u0e1b\u0e25\u0e48\u0e32",
+                "pic": "1500545981_385092.jpg",
+                "created": "2016-12-17T21:14:47",
+                "breatedby": null,
+                "seq": 70
+            }
+        }
+    ]
+}
+2018-04-04 11:42:36 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-04 11:55:22 Debug: {
+    "id": "1f821261-f233-4dd5-a006-a5c94685d42f",
+    "fullname": "\u0e0a\u0e31\u0e22\u0e27\u0e31\u0e12\u0e19\u0e4c \u0e2b\u0e32\u0e42\u0e2b\u0e22\u0e01",
+    "tel": "0992850360",
+    "email": "chaiwat441@gmail.com",
+    "lineid": "chaiwat441",
+    "created": "2018-04-04T11:55:22",
+    "customer_assets": [
+        {
+            "id": "3b37c1f1-6990-4791-bcf6-ed889236f717",
+            "zone_id": null,
+            "customer_id": "1f821261-f233-4dd5-a006-a5c94685d42f",
+            "description": "\u0e02\u0e32\u0e22\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19 10\u0e44\u0e23\u0e48-1\u0e07\u0e32\u0e19-29\u0e15\u0e32\u0e23\u0e32\u0e07\u0e27\u0e32 \u0e15.\u0e2b\u0e19\u0e2d\u0e07\u0e1b\u0e23\u0e37\u0e2d \u0e2d.\u0e1a\u0e32\u0e07\u0e25\u0e30\u0e21\u0e36\u0e07 \u0e08.\u0e0a\u0e25\u0e1a\u0e38\u0e23\u0e35 \u0e15\u0e23\u0e07\u0e02\u0e49\u0e32\u0e21\u0e1e\u0e31\u0e17\u0e22\u0e32\u0e43\u0e15\u0e49 \u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e15\u0e34\u0e14\u0e2b\u0e21\u0e39\u0e48\u0e1a\u0e49\u0e32\u0e19\u0e08\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e04 \u0e40\u0e2b\u0e21\u0e32\u0e30\u0e41\u0e01\u0e48\u0e01\u0e32\u0e23\u0e25\u0e07\u0e17\u0e38\u0e19 \u0e43\u0e01\u0e25\u0e49\u0e41\u0e2b\u0e25\u0e48\u0e07\u0e17\u0e48\u0e2d\u0e07\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27 \u0e43\u0e01\u0e25\u0e49\u0e41\u0e2b\u0e25\u0e48\u0e07\u0e2d\u0e38\u0e15\u0e2a\u0e32\u0e01\u0e2b\u0e23\u0e23\u0e21 \u0e2b\u0e48\u0e32\u0e07\u0e08\u0e32\u0e01\u0e16\u0e19\u0e19\u0e40\u0e2a\u0e49\u0e19\u0e2b\u0e25\u0e31\u0e01\u0e40\u0e1e\u0e35\u0e22\u0e07 1.5 \u0e01\u0e34\u0e42\u0e25\u0e40\u0e21\u0e15\u0e23 \u0e23\u0e32\u0e04\u0e32 90 \u0e25\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e17 \u0e23\u0e27\u0e21\u0e04\u0e48\u0e32\u0e43\u0e0a\u0e49\u0e08\u0e48\u0e32\u0e22\u0e04\u0e23\u0e31\u0e1a\r\n\u0e2a\u0e19\u0e43\u0e08\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d 099-2850360 (\u0e0a\u0e31\u0e22\u0e27\u0e31\u0e12\u0e19\u0e4c) \u0e02\u0e2d\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21\u0e44\u0e14\u0e49\u0e04\u0e23\u0e31\u0e1a\r\nLine : chaiwat441",
+            "asset_type_id": "cf8962f0-dbde-42b6-a7c3-484cb106b932",
+            "asset_type_des": "",
+            "created": "2018-04-04T11:55:22",
+            "floor_total": null,
+            "bedroom": null,
+            "bathroom": null,
+            "kitchen_room": null,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": 10,
+            "area_ngan": 1,
+            "area_wah": 29,
+            "area_meter": null,
+            "price_per_wah": null,
+            "price_amounnt": 90000000,
+            "isreqconsult": "N",
+            "type": "S",
+            "budgets": null,
+            "address_id": "867a3879-fa70-4b83-bbd9-dbc1d236b3d5",
+            "asset_type": {
+                "id": "cf8962f0-dbde-42b6-a7c3-484cb106b932",
+                "name": "\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19\u0e40\u0e1b\u0e25\u0e48\u0e32",
+                "pic": "1500545981_385092.jpg",
+                "created": "2016-12-17T21:14:47",
+                "breatedby": null,
+                "seq": 70
+            }
+        }
+    ]
+}
+2018-04-04 11:55:22 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-04 16:30:32 Debug: {
+    "id": "3bea2f52-724f-40db-9007-e9a20b005355",
+    "fullname": "\u0e1e\u0e38\u0e12\u0e34\u0e1e\u0e31\u0e17\u0e18\u0e4c",
+    "tel": "0814966659",
+    "email": "",
+    "lineid": "",
+    "created": "2018-04-04T16:30:32",
+    "customer_assets": [
+        {
+            "id": "b07f9775-3f27-4754-8588-22f2507aab37",
+            "zone_id": null,
+            "customer_id": "3bea2f52-724f-40db-9007-e9a20b005355",
+            "description": "\u0e1a\u0e49\u0e32\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e2d\u0e22\u0e39\u0e48",
+            "asset_type_id": "185c82af-6b9a-45b1-b4d7-e8b62253dc6b",
+            "asset_type_des": "",
+            "created": "2018-04-04T16:30:32",
+            "floor_total": 2,
+            "bedroom": 4,
+            "bathroom": 4,
+            "kitchen_room": 1,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": null,
+            "area_ngan": null,
+            "area_wah": 106.5,
+            "area_meter": null,
+            "price_per_wah": null,
+            "price_amounnt": 15,
+            "isreqconsult": "N",
+            "type": "S",
+            "budgets": null,
+            "address_id": "e59895c1-12bb-47ea-ada7-ba03d1ec1472",
+            "asset_type": {
+                "id": "185c82af-6b9a-45b1-b4d7-e8b62253dc6b",
+                "name": "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e14\u0e35\u0e48\u0e22\u0e27",
+                "pic": "1500540135_607442.jpg",
+                "created": "2016-12-17T21:18:59",
+                "breatedby": null,
+                "seq": 10
+            }
+        }
+    ]
+}
+2018-04-04 16:30:32 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-05 09:11:04 Debug: {
+    "id": "2a3660fa-5a1b-43a2-87c5-035b99d9092b",
+    "fullname": "\u0e1a\u0e38\u0e0d\u0e0d\u0e32  \u0e41\u0e2a\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+    "tel": "0640450696",
+    "email": "boon.ya@hotmail.com",
+    "lineid": "oom2433",
+    "created": "2018-04-05T09:11:04",
+    "customer_assets": [
+        {
+            "id": "afd16cc3-3038-412a-b59b-5fd7ecde47d1",
+            "zone_id": null,
+            "customer_id": "2a3660fa-5a1b-43a2-87c5-035b99d9092b",
+            "description": "",
+            "asset_type_id": "cf8962f0-dbde-42b6-a7c3-484cb106b932",
+            "asset_type_des": "",
+            "created": "2018-04-05T09:11:04",
+            "floor_total": null,
+            "bedroom": null,
+            "bathroom": null,
+            "kitchen_room": null,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": 4,
+            "area_ngan": null,
+            "area_wah": null,
+            "area_meter": null,
+            "price_per_wah": null,
+            "price_amounnt": 180,
+            "isreqconsult": "N",
+            "type": "S",
+            "budgets": null,
+            "address_id": "009bf02f-2609-4e96-9b1d-e34597222180",
+            "asset_type": {
+                "id": "cf8962f0-dbde-42b6-a7c3-484cb106b932",
+                "name": "\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19\u0e40\u0e1b\u0e25\u0e48\u0e32",
+                "pic": "1500545981_385092.jpg",
+                "created": "2016-12-17T21:14:47",
+                "breatedby": null,
+                "seq": 70
+            }
+        }
+    ]
+}
+2018-04-05 09:11:04 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-05 09:11:07 Debug: {
+    "id": "d10ac991-380f-441f-bff2-1a3879a3e752",
+    "fullname": "\u0e1a\u0e38\u0e0d\u0e0d\u0e32  \u0e41\u0e2a\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+    "tel": "0640450696",
+    "email": "boon.ya@hotmail.com",
+    "lineid": "oom2433",
+    "created": "2018-04-05T09:11:07",
+    "customer_assets": [
+        {
+            "id": "4a574b03-af62-44b4-ab2a-f4b8f39b7985",
+            "zone_id": null,
+            "customer_id": "d10ac991-380f-441f-bff2-1a3879a3e752",
+            "description": "",
+            "asset_type_id": "cf8962f0-dbde-42b6-a7c3-484cb106b932",
+            "asset_type_des": "",
+            "created": "2018-04-05T09:11:07",
+            "floor_total": null,
+            "bedroom": null,
+            "bathroom": null,
+            "kitchen_room": null,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": 4,
+            "area_ngan": null,
+            "area_wah": null,
+            "area_meter": null,
+            "price_per_wah": null,
+            "price_amounnt": 180,
+            "isreqconsult": "N",
+            "type": "S",
+            "budgets": null,
+            "address_id": "1eb438e8-f93a-4211-b422-b6b5ca2ad7e7",
+            "asset_type": {
+                "id": "cf8962f0-dbde-42b6-a7c3-484cb106b932",
+                "name": "\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19\u0e40\u0e1b\u0e25\u0e48\u0e32",
+                "pic": "1500545981_385092.jpg",
+                "created": "2016-12-17T21:14:47",
+                "breatedby": null,
+                "seq": 70
+            }
+        }
+    ]
+}
+2018-04-05 09:11:07 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-05 13:26:05 Debug: {
+    "id": "2e30b9f2-fd24-45aa-80dd-836cdccbc7b0",
+    "fullname": "\u0e18\u0e31\u0e19\u0e0d\u0e20\u0e31\u0e17\u0e23\u0e4c \u0e04\u0e49\u0e32\u0e17\u0e32\u0e07\u0e0a\u0e25",
+    "tel": "0972605987",
+    "email": "nutsuka_dase@hotmail.com",
+    "lineid": "nookoynk",
+    "created": "2018-04-05T13:26:05",
+    "customer_assets": [
+        {
+            "id": "3b61c03b-f434-46c9-84a2-c0e0abd81aba",
+            "zone_id": "3306241f-2270-4172-a8f2-bed2bc1f6402",
+            "customer_id": "2e30b9f2-fd24-45aa-80dd-836cdccbc7b0",
+            "description": "\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e40\u0e0a\u0e48\u0e32\u0e23\u0e49\u0e32\u0e19\u0e17\u0e35\u0e48\u0e17\u0e33\u0e23\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23 \u0e2b\u0e23\u0e37\u0e2d \u0e23\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23\u0e40\u0e01\u0e48\u0e32 \u0e40\u0e19\u0e37\u0e49\u0e2d\u0e17\u0e35\u0e48\u0e1b\u0e23\u0e30\u0e21\u0e32\u0e19 100 \u0e15\u0e23\u0e21 \u0e41\u0e16\u0e27\u0e46 \u0e40\u0e0b\u0e47\u0e19\u0e17\u0e23\u0e31\u0e25\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e219 \u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e0b\u0e2d\u0e22\u0e01\u0e47\u0e44\u0e14\u0e49 \u0e04\u0e48\u0e32\u0e40\u0e0a\u0e48\u0e32\u0e1b\u0e23\u0e30\u0e21\u0e32\u0e1950,000 \u0e1a\u0e32\u0e17\u0e15\u0e48\u0e2d\u0e40\u0e14\u0e37\u0e2d\u0e19 \u0e04\u0e48\u0e30",
+            "asset_type_id": "17ca334e-f836-47e6-9f80-e4fc1c745b7c",
+            "asset_type_des": "\u0e23\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23",
+            "created": "2018-04-05T13:26:05",
+            "floor_total": null,
+            "bedroom": null,
+            "bathroom": null,
+            "kitchen_room": null,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": null,
+            "area_ngan": null,
+            "area_wah": null,
+            "area_meter": null,
+            "price_per_wah": null,
+            "price_amounnt": 0,
+            "isreqconsult": "N",
+            "type": "P",
+            "budgets": "<1.5",
+            "address_id": null,
+            "asset_type": {
+                "id": "17ca334e-f836-47e6-9f80-e4fc1c745b7c",
+                "name": "\u0e42\u0e01\u0e14\u0e31\u0e07 \u0e2d\u0e1e\u0e32\u0e23\u0e4c\u0e15\u0e40\u0e21\u0e49\u0e19\u0e17\u0e4c \u0e2d\u0e37\u0e48\u0e19\u0e46",
+                "pic": "1502166016_412052.jpg",
+                "created": "2016-12-17T21:15:28",
+                "breatedby": null,
+                "seq": 80
+            }
+        }
+    ]
+}
+2018-04-05 13:26:05 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-06 21:30:23 Debug: {
+    "id": "10bcb680-b93f-4e53-908d-1e1fa4348ce1",
+    "fullname": "\u0e20\u0e32\u0e13\u0e38\u0e27\u0e31\u0e12\u0e19\u0e4c ",
+    "tel": "0886123159",
+    "email": "panuwat3159@gmail.com",
+    "lineid": "panuwat3159",
+    "created": "2018-04-06T21:30:23",
+    "customer_assets": [
+        {
+            "id": "9759c054-a6b4-4615-9d5a-988927e5ba2c",
+            "zone_id": null,
+            "customer_id": "10bcb680-b93f-4e53-908d-1e1fa4348ce1",
+            "description": "",
+            "asset_type_id": "558fd9bd-21f8-41e8-9649-22fe4ec87b9b",
+            "asset_type_des": "",
+            "created": "2018-04-06T21:30:23",
+            "floor_total": 2,
+            "bedroom": 2,
+            "bathroom": 1,
+            "kitchen_room": 1,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": null,
+            "area_ngan": null,
+            "area_wah": 16,
+            "area_meter": null,
+            "price_per_wah": null,
+            "price_amounnt": 1100000,
+            "isreqconsult": "N",
+            "type": "S",
+            "budgets": null,
+            "address_id": "562c4cff-6569-4291-b05f-85bf7bfa811e",
+            "asset_type": {
+                "id": "558fd9bd-21f8-41e8-9649-22fe4ec87b9b",
+                "name": "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e1d\u0e14 \u0e17\u0e32\u0e27\u0e19\u0e4c\u0e40\u0e2e\u0e49\u0e32\u0e2a\u0e4c \u0e17\u0e32\u0e27\u0e19\u0e4c\u0e42\u0e2e\u0e21",
+                "pic": "1500544457_94905.jpg",
+                "created": "2016-12-06T22:39:07",
+                "breatedby": null,
+                "seq": 20
+            }
+        }
+    ]
+}
+2018-04-06 21:30:23 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-07 11:30:34 Debug: {
+    "id": "c8b7a5cc-a705-4b58-9a49-349754dd74b1",
+    "fullname": "\u0e40\u0e2d\u0e01\u0e23\u0e32\u0e0a \u0e2d\u0e39\u0e48\u0e02\u0e38\u0e19",
+    "tel": "0649351556",
+    "email": "ekkaraj89@hotmail.com",
+    "lineid": "golf0819230848",
+    "created": "2018-04-07T11:30:34",
+    "customer_assets": [
+        {
+            "id": "70925dfe-d123-402d-ab28-779d1b7a3a68",
+            "zone_id": null,
+            "customer_id": "c8b7a5cc-a705-4b58-9a49-349754dd74b1",
+            "description": "\u0e40\u0e25\u0e02\u0e17\u0e35\u0e48\u0e1a\u0e49\u0e32\u0e19 9\/58\r\n\u0e17\u0e32\u0e27\u0e19\u0e4c\u0e42\u0e2e\u0e21 3 \u0e0a\u0e31\u0e49\u0e19 \u0e2b\u0e19\u0e49\u0e32\u0e01\u0e27\u0e49\u0e32\u0e07 5 \u0e21. \u0e02\u0e19\u0e32\u0e14\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19 21.9 \u0e15\u0e23.\u0e27. \u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e43\u0e0a\u0e49\u0e2a\u0e2d\u0e22 168 \u0e15\u0e23.\u0e21. 3 \u0e2b\u0e49\u0e2d\u0e07\u0e19\u0e2d\u0e19 4 \u0e2b\u0e49\u0e2d\u0e07\u0e19\u0e49\u0e33 2 \u0e17\u0e35\u0e48\u0e08\u0e2d\u0e14\u0e23\u0e16\r\n\u0e1e\u0e37\u0e49\u0e19: \u0e0a\u0e31\u0e49\u0e19\u0e25\u0e48\u0e32\u0e07\u0e01\u0e23\u0e30\u0e40\u0e1a\u0e37\u0e49\u0e2d\u0e07\u0e41\u0e01\u0e23\u0e19\u0e34\u0e15\u0e42\u0e15\u0e49 \u0e0a\u0e31\u0e49\u0e19\u0e1a\u0e19\u0e1e\u0e37\u0e49\u0e19\u0e44\u0e21\u0e49\u0e25\u0e32\u0e21\u0e34\u0e40\u0e19\u0e15\r\n\u0e1c\u0e19\u0e31\u0e07: \u0e15\u0e34\u0e14\u0e27\u0e2d\u0e25\u0e25\u0e4c\u0e40\u0e1b\u0e40\u0e1b\u0e2d\u0e23\u0e4c\r\n\u0e2a\u0e38\u0e02\u0e20\u0e31\u0e13\u0e11\u0e4c :  \u0e22\u0e35\u0e48\u0e2b\u0e49\u0e2d American Standard\r\n\u0e0a\u0e38\u0e14\u0e04\u0e23\u0e31\u0e27:  \u0e42\u0e21\u0e40\u0e14\u0e2d\u0e23\u0e4c\u0e19\u0e1f\u0e2d\u0e23\u0e4c\u0e21 \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e0b\u0e34\u0e49\u0e07\u0e04\u0e4c\u0e25\u0e49\u0e32\u0e07, \u0e40\u0e15\u0e32\u0e44\u0e1f\u0e1f\u0e49\u0e32, \u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e14\u0e39\u0e14\u0e04\u0e27\u0e31\u0e19 \u0e22\u0e35\u0e48\u0e2b\u0e49\u0e2d Teka",
+            "asset_type_id": "558fd9bd-21f8-41e8-9649-22fe4ec87b9b",
+            "asset_type_des": "-",
+            "created": "2018-04-07T11:30:34",
+            "floor_total": 3,
+            "bedroom": 3,
+            "bathroom": 4,
+            "kitchen_room": 1,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": null,
+            "area_ngan": null,
+            "area_wah": 21.9,
+            "area_meter": 168,
+            "price_per_wah": null,
+            "price_amounnt": 10500000,
+            "isreqconsult": "N",
+            "type": "S",
+            "budgets": null,
+            "address_id": "709a42c3-e1c3-4a09-972f-9dbbe636866e",
+            "asset_type": {
+                "id": "558fd9bd-21f8-41e8-9649-22fe4ec87b9b",
+                "name": "\u0e1a\u0e49\u0e32\u0e19\u0e41\u0e1d\u0e14 \u0e17\u0e32\u0e27\u0e19\u0e4c\u0e40\u0e2e\u0e49\u0e32\u0e2a\u0e4c \u0e17\u0e32\u0e27\u0e19\u0e4c\u0e42\u0e2e\u0e21",
+                "pic": "1500544457_94905.jpg",
+                "created": "2016-12-06T22:39:07",
+                "breatedby": null,
+                "seq": 20
+            }
+        }
+    ]
+}
+2018-04-07 11:30:34 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-08 16:52:45 Debug: {
+    "id": "5ec1075e-2e22-44e2-9bdf-c0b2aa4c2680",
+    "fullname": "\u0e19\u0e32\u0e22\u0e20\u0e31\u0e04\u0e40\u0e01\u0e29\u0e21 \u0e01\u0e31\u0e19\u0e18\u0e32\u0e23\u0e31\u0e01\u0e29\u0e4c",
+    "tel": "0825727036",
+    "email": "",
+    "lineid": "Phakkasem",
+    "created": "2018-04-08T16:52:45",
+    "customer_assets": [
+        {
+            "id": "477f06fd-7ad5-49e0-a114-cbbc655a60fa",
+            "zone_id": null,
+            "customer_id": "5ec1075e-2e22-44e2-9bdf-c0b2aa4c2680",
+            "description": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e40\u0e0a\u0e35\u0e22\u0e27\u0e23\u0e32\u0e22(\u0e02\u0e32\u0e22\u0e15\u0e48\u0e33\u0e01\u0e27\u0e48\u0e32\u0e23\u0e32\u0e04\u0e32\u0e1b\u0e23\u0e30\u0e40\u0e21\u0e34\u0e13)",
+            "asset_type_id": "185c82af-6b9a-45b1-b4d7-e8b62253dc6b",
+            "asset_type_des": "",
+            "created": "2018-04-08T16:52:45",
+            "floor_total": 2,
+            "bedroom": 4,
+            "bathroom": 4,
+            "kitchen_room": 1,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": null,
+            "area_ngan": 1,
+            "area_wah": 40,
+            "area_meter": null,
+            "price_per_wah": null,
+            "price_amounnt": 8,
+            "isreqconsult": "N",
+            "type": "S",
+            "budgets": null,
+            "address_id": "3b61a6d3-1f36-4655-95e1-70d820b8a93e",
+            "asset_type": {
+                "id": "185c82af-6b9a-45b1-b4d7-e8b62253dc6b",
+                "name": "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e14\u0e35\u0e48\u0e22\u0e27",
+                "pic": "1500540135_607442.jpg",
+                "created": "2016-12-17T21:18:59",
+                "breatedby": null,
+                "seq": 10
+            }
+        }
+    ]
+}
+2018-04-08 16:52:45 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-08 23:26:21 Debug: {
+    "id": "d525286f-ae0b-4a61-bee9-472441f55e6a",
+    "fullname": "\u0e40\u0e1e\u0e47\u0e0d\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c  \u0e15\u0e31\u0e19\u0e15\u0e34\u0e27\u0e34\u0e21\u0e25\u0e02\u0e08\u0e23",
+    "tel": "0930053862",
+    "email": "t.penchan2500@gmail.com",
+    "lineid": "",
+    "created": "2018-04-08T23:26:21",
+    "customer_assets": [
+        {
+            "id": "db722498-2bc8-4a1a-912a-52e611f5a494",
+            "zone_id": null,
+            "customer_id": "d525286f-ae0b-4a61-bee9-472441f55e6a",
+            "description": "\u0e40\u0e1b\u0e47\u0e19\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19\u0e23\u0e35\u0e2a\u0e2d\u0e23\u0e4c\u0e17 \u0e2d\u0e22\u0e39\u0e48\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e38\u0e23\u0e35 \u0e42\u0e04\u0e23\u0e07\u0e01\u0e32\u0e23\u0e2b\u0e32\u0e14\u0e40\u0e08\u0e49\u0e32\u0e2a\u0e33\u0e23\u0e32\u0e0d \u0e41\u0e25\u0e04\u0e41\u0e2d\u0e19\u0e2e\u0e34\u0e25\u0e25\u0e4c  \u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49\u0e23\u0e32\u0e04\u0e32\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19\u0e17\u0e35\u0e48\u0e02\u0e32\u0e22\u0e02\u0e2d\u0e07\u0e42\u0e04\u0e23\u0e07\u0e01\u0e32\u0e23\u0e02\u0e32\u0e22\u0e2d\u0e22\u0e39\u0e48\u0e15\u0e32\u0e23\u0e32\u0e07\u0e27\u0e32\u0e25\u0e30 14,000 \u0e1a\u0e32\u0e17",
+            "asset_type_id": "cf8962f0-dbde-42b6-a7c3-484cb106b932",
+            "asset_type_des": "",
+            "created": "2018-04-08T23:26:21",
+            "floor_total": null,
+            "bedroom": null,
+            "bathroom": null,
+            "kitchen_room": null,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": null,
+            "area_ngan": null,
+            "area_wah": 84,
+            "area_meter": null,
+            "price_per_wah": null,
+            "price_amounnt": 0,
+            "isreqconsult": "N",
+            "type": "S",
+            "budgets": null,
+            "address_id": "b51469f3-73da-4128-94fe-dd1aab8707bd",
+            "asset_type": {
+                "id": "cf8962f0-dbde-42b6-a7c3-484cb106b932",
+                "name": "\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19\u0e40\u0e1b\u0e25\u0e48\u0e32",
+                "pic": "1500545981_385092.jpg",
+                "created": "2016-12-17T21:14:47",
+                "breatedby": null,
+                "seq": 70
+            }
+        }
+    ]
+}
+2018-04-08 23:26:21 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-09 17:20:22 Debug: {
+    "id": "cbc867dc-b165-49d2-a448-47e0c82b78f2",
+    "fullname": "\u0e42\u0e04\u0e23\u0e07\u0e01\u0e32\u0e23 \u0e14\u0e34 \u0e41\u0e2d\u0e2a\u0e40\u0e0b\u0e17 (\u0e42\u0e08)",
+    "tel": "0853355900",
+    "email": "wiyaphorn.csw@gmail.com",
+    "lineid": "0853355900",
+    "created": "2018-04-09T17:20:22",
+    "customer_assets": [
+        {
+            "id": "94c237d6-94bd-40f9-abb3-82ac07720f00",
+            "zone_id": null,
+            "customer_id": "cbc867dc-b165-49d2-a448-47e0c82b78f2",
+            "description": "\u0e42\u0e04\u0e23\u0e07\u0e01\u0e32\u0e23\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19\u0e17\u0e35\u0e48\u0e41\u0e1b\u0e25\u0e07\u0e25\u0e30100 \u0e15\u0e32\u0e23\u0e32\u0e07\u0e27\u0e32 \u0e08\u0e19\u0e16\u0e36\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e23\u0e48\r\n\u0e1a\u0e19\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e17\u0e33 \u0e42\u0e23\u0e07\u0e07\u0e32\u0e19\/\u0e42\u0e01\u0e14\u0e31\u0e07\/\u0e42\u0e2e\u0e21\u0e2d\u0e2d\u0e1f\u0e1f\u0e34\u0e28\/\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e31\u0e01\u0e2d\u0e32\u0e28\u0e31\u0e22\r\n\u0e23\u0e30\u0e1a\u0e1a\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e39\u0e1b\u0e42\u0e20\u0e04 \u0e44\u0e1f\u0e1f\u0e49\u0e32 \u0e19\u0e49\u0e33\u0e1b\u0e23\u0e30\u0e1b\u0e32 \u0e16\u0e19\u0e19\u0e04\u0e2d\u0e19\u0e01\u0e23\u0e35\u0e15\u0e40\u0e2a\u0e23\u0e34\u0e21\u0e40\u0e2b\u0e25\u0e47\u0e01 \u0e23\u0e30\u0e1a\u0e1a\u0e23\u0e30\u0e1a\u0e32\u0e22\u0e19\u0e49\u0e33 \u0e42\u0e17\u0e23\u0e28\u0e31\u0e1e\u0e17\u0e4c \u0e2d\u0e34\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e40\u0e19\u0e47\u0e15\r\n\u0e42\u0e09\u0e19\u0e14\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e42\u0e2d\u0e19\u0e44\u0e21\u0e48\u0e15\u0e34\u0e14\u0e20\u0e32\u0e23\u0e30\u0e1c\u0e39\u0e01\u0e1e\u0e31\u0e19\u0e43\u0e14\u0e46\u0e17\u0e31\u0e49\u0e07\u0e2a\u0e34\u0e49\u0e19 \u0e21\u0e31\u0e48\u0e19\u0e43\u0e08 \u0e2b\u0e21\u0e14\u0e01\u0e31\u0e07\u0e27\u0e25\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e0b\u0e37\u0e49\u0e2d\u0e41\u0e25\u0e49\u0e27\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e42\u0e2d\u0e19\r\n\u0e27\u0e34\u0e18\u0e35\u0e01\u0e32\u0e23\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e08\u0e49\u0e32\u0e02\u0e2d\u0e07\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08\u0e41\u0e1a\u0e1a\u0e07\u0e48\u0e32\u0e22\u0e46\r\n*\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e02\u0e19\u0e32\u0e14\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19\u0e17\u0e35\u0e48\u0e04\u0e38\u0e13\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23 \u0e08\u0e32\u0e01\u0e41\u0e1c\u0e19\u0e1c\u0e31\u0e07\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32\r\n*\u0e2d\u0e2d\u0e01\u0e41\u0e1a\u0e1a\u0e42\u0e23\u0e07\u0e07\u0e32\u0e19 \u0e41\u0e25\u0e30 \u0e04\u0e25\u0e31\u0e07\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32 \u0e17\u0e35\u0e48\u0e40\u0e2b\u0e21\u0e32\u0e30\u0e2a\u0e21\u0e01\u0e31\u0e1a\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08\u0e04\u0e38\u0e13\r\n*\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e02\u0e2d\u0e2a\u0e34\u0e19\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e42\u0e14\u0e22\u0e17\u0e35\u0e21\u0e07\u0e32\u0e19\u0e04\u0e38\u0e13\u0e20\u0e32\u0e1e\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32\r\n\r\n\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e02\u0e32\u0e22 \u0e16\u0e19\u0e19 \u0e1a\u0e32\u0e07\u0e1a\u0e31\u0e27\u0e17\u0e2d\u0e07-\u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13\u0e1a\u0e38\u0e23\u0e35 (340 )\r\n\u0e15\u0e33\u0e1a\u0e25\u0e25\u0e30\u0e2b\u0e32\u0e23 \u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1a\u0e32\u0e07\u0e1a\u0e31\u0e27\u0e17\u0e2d\u0e07 \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e19\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35 \r\n*\u0e1d\u0e31\u0e48\u0e07\u0e15\u0e23\u0e07\u0e02\u0e49\u0e32\u0e21\u0e2b\u0e21\u0e39\u0e48\u0e1a\u0e49\u0e32\u0e19\u0e0b\u0e37\u0e48\u0e2d\u0e15\u0e23\u0e07\u0e1a\u0e32\u0e07\u0e43\u0e2b\u0e0d\u0e48\r\n*\u0e40\u0e25\u0e22\u0e1b\u0e32\u0e01\u0e17\u0e32\u0e07\u0e40\u0e02\u0e49\u0e32 \u0e17\u0e35\u0e48\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1a\u0e32\u0e07\u0e1a\u0e31\u0e27\u0e17\u0e2d\u0e07 \u0e19\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35\r\n\u0e40\u0e27\u0e25\u0e32\u0e17\u0e33\u0e01\u0e32\u0e23: (\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c - \u0e40\u0e2a\u0e32\u0e23\u0e4c \u0e40\u0e27\u0e25\u0e32 9:00 \u0e19. \u2013 18:00 \u0e19.)\r\n\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e2b\u0e15\u0e38: \u0e17\u0e32\u0e07\u0e42\u0e04\u0e23\u0e07\u0e01\u0e32\u0e23\u0e40\u0e23\u0e32\u0e21\u0e35\u0e23\u0e16\u0e1e\u0e32\u0e25\u0e39\u0e01\u0e04\u0e49\u0e32\u0e40\u0e02\u0e49\u0e32\u0e0a\u0e21\u0e42\u0e04\u0e23\u0e07\u0e01\u0e32\u0e23 \r\n\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e2a\u0e30\u0e14\u0e27\u0e01\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e21\u0e15\u0e48\u0e2d\u0e16\u0e19\u0e19\u0e2a\u0e32\u0e22\u0e2b\u0e25\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2a\u0e32\u0e22\r\n\u0e43\u0e01\u0e25\u0e49\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e01\u0e23\u0e30\u0e08\u0e32\u0e22\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32 7 eleven , Lotus, Top \u0e0b\u0e36\u0e48\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e01\u0e23\u0e30\u0e08\u0e32\u0e22\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32\u0e17\u0e35\u0e48\u0e43\u0e2b\u0e0d\u0e48\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e43\u0e19\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22 \r\n\u0e23\u0e30\u0e1a\u0e1a\u0e02\u0e19\u0e2a\u0e48\u0e07\u0e2b\u0e48\u0e32\u0e07\u0e08\u0e32\u0e01\u0e2a\u0e32\u0e22\u0e27\u0e07\u0e41\u0e2b\u0e27\u0e19\u0e15\u0e30\u0e27\u0e31\u0e19\u0e15\u0e01\u0e41\u0e25\u0e30\u0e23\u0e16\u0e44\u0e1f\u0e1f\u0e49\u0e32\u0e2a\u0e32\u0e22\u0e2a\u0e35\u0e21\u0e48\u0e27\u0e07(\u0e1a\u0e32\u0e07\u0e43\u0e2b\u0e0d\u0e48) BTS \u0e1b\u0e23\u0e30\u0e21\u0e32\u0e13 15 \u0e19\u0e32\u0e17\u0e35\r\n\r\n\u0e42\u0e1b\u0e23\u0e42\u0e21\u0e0a\u0e31\u0e48\u0e19 \u0e09\u0e25\u0e2d\u0e07\u0e42\u0e04\u0e23\u0e07\u0e01\u0e32\u0e23 2 \u0e42\u0e1b\u0e23\u0e41\u0e23\u0e07!!! \u0e41\u0e1b\u0e25\u0e07 HOT!!! #\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e25\u0e07\u0e17\u0e38\u0e19\u0e44\u0e14\u0e49\u0e43\u0e19\u0e41\u0e1a\u0e1a\u0e17\u0e35\u0e48\u0e04\u0e38\u0e13\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\r\n1. Promotion...\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19 120 \u0e15\u0e23.\u0e27. + \u0e42\u0e23\u0e07\u0e07\u0e32\u0e19 96 \u0e15\u0e23.\u0e21. \u0e23\u0e32\u0e04\u0e32 1.95 \u0e25\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e17 (\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19)\r\n2. Promotion... \u0e17\u0e35\u0e48\u0e14\u0e34\u0e19 130 \u0e15\u0e23.\u0e27. + \u0e42\u0e23\u0e07\u0e07\u0e32\u0e19 96 \u0e15\u0e23.\u0e21. \u0e23\u0e32\u0e04\u0e32 2.07 \u0e25\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e17\r\n3. Promotion... \u0e17\u0e35\u0e48\u0e14\u0e34\u0e19 160 \u0e15\u0e23.\u0e27. + \u0e42\u0e23\u0e07\u0e07\u0e32\u0e19 96 \u0e15\u0e23.\u0e21. \u0e23\u0e32\u0e04\u0e32 2.46 \u0e25\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e17\r\n4. Promotion... \u0e17\u0e35\u0e48\u0e14\u0e34\u0e19 1 \u0e44\u0e23\u0e48 + \u0e42\u0e23\u0e07\u0e07\u0e32\u0e19 216 \u0e15\u0e23.\u0e21. \u0e23\u0e32\u0e04\u0e32 5.9 \u0e25\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e17 (\u0e42\u0e1b\u0e23\u0e2fHOT)\r\n5. Promotion... \u0e17\u0e35\u0e48\u0e14\u0e34\u0e19 2 \u0e44\u0e23\u0e48 +\u0e42\u0e23\u0e07\u0e07\u0e32\u0e19 400 \u0e15\u0e23.\u0e21. \u0e23\u0e32\u0e04\u0e32 12 \u0e25\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e17\r\n\r\n\u0e42\u0e17\u0e23\u0e2b\u0e32\u0e40\u0e23\u0e32\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e23\u0e31\u0e1a\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e1e\u0e34\u0e40\u0e28\u0e29 \u0e1f\u0e23\u0e35\u0e2d\u0e35\u0e01 3 \u0e15\u0e48\u0e2d\t\r\n\u0e15\u0e48\u0e2d\u0e17\u0e35\u0e48 1 \u0e2d\u0e2d\u0e01\u0e41\u0e1a\u0e1a\u0e42\u0e23\u0e07\u0e07\u0e32\u0e19\u0e2b\u0e23\u0e37\u0e2d\u0e04\u0e25\u0e31\u0e07\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32 \r\n\u0e15\u0e48\u0e2d\u0e17\u0e35\u0e48 2 \u0e02\u0e2d\u0e43\u0e1a\u0e2d\u0e19\u0e38\u0e0d\u0e32\u0e15\u0e01\u0e48\u0e2d\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e2f \r\n\u0e15\u0e48\u0e2d\u0e17\u0e35\u0e48 3 \u0e04\u0e48\u0e32\u0e18\u0e23\u0e23\u0e21\u0e40\u0e19\u0e35\u0e22\u0e21\u0e41\u0e25\u0e30\u0e20\u0e32\u0e29\u0e35\u0e01\u0e32\u0e23\u0e42\u0e2d\u0e19\r\n\r\n(\u0e2a\u0e19\u0e43\u0e08\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e2a\u0e2d\u0e1a\u0e16\u0e32\u0e21 \u0e23\u0e32\u0e22\u0e25\u0e30\u0e40\u0e2d\u0e35\u0e22\u0e14\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21)\r\nTel : 085-3355900 (\u0e42\u0e08)\r\nID Line : 0853355900\r\n\u0e2a\u0e19\u0e43\u0e08\u0e14\u0e39\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48 http:\/\/www.csw.co.th\r\n",
+            "asset_type_id": "cf8962f0-dbde-42b6-a7c3-484cb106b932",
+            "asset_type_des": "",
+            "created": "2018-04-09T17:20:22",
+            "floor_total": null,
+            "bedroom": null,
+            "bathroom": null,
+            "kitchen_room": null,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": 1,
+            "area_ngan": null,
+            "area_wah": null,
+            "area_meter": null,
+            "price_per_wah": null,
+            "price_amounnt": 0,
+            "isreqconsult": "N",
+            "type": "S",
+            "budgets": null,
+            "address_id": "e8cd0d61-35bb-4d1a-a2ef-c437cbe5b961",
+            "asset_type": {
+                "id": "cf8962f0-dbde-42b6-a7c3-484cb106b932",
+                "name": "\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19\u0e40\u0e1b\u0e25\u0e48\u0e32",
+                "pic": "1500545981_385092.jpg",
+                "created": "2016-12-17T21:14:47",
+                "breatedby": null,
+                "seq": 70
+            }
+        }
+    ]
+}
+2018-04-09 17:20:22 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-10 08:28:07 Debug: {
+    "id": "ab80ae1d-1152-4191-959b-b3858afd6108",
+    "fullname": "\u0e1b\u0e2d\u0e19\u0e14\u0e4c",
+    "tel": "0994145632",
+    "email": "",
+    "lineid": "ponpon99119",
+    "created": "2018-04-10T08:28:07",
+    "customer_assets": [
+        {
+            "id": "5b496080-83e1-47f6-8d5f-bcbdad9617e7",
+            "zone_id": null,
+            "customer_id": "ab80ae1d-1152-4191-959b-b3858afd6108",
+            "description": "",
+            "asset_type_id": "185c82af-6b9a-45b1-b4d7-e8b62253dc6b",
+            "asset_type_des": "",
+            "created": "2018-04-10T08:28:07",
+            "floor_total": 2,
+            "bedroom": 4,
+            "bathroom": 2,
+            "kitchen_room": 1,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": null,
+            "area_ngan": null,
+            "area_wah": 69,
+            "area_meter": null,
+            "price_per_wah": null,
+            "price_amounnt": 3,
+            "isreqconsult": "N",
+            "type": "S",
+            "budgets": null,
+            "address_id": "3f1cdf1c-cb17-418f-bfcc-59a4964964fd",
+            "asset_type": {
+                "id": "185c82af-6b9a-45b1-b4d7-e8b62253dc6b",
+                "name": "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e14\u0e35\u0e48\u0e22\u0e27",
+                "pic": "1500540135_607442.jpg",
+                "created": "2016-12-17T21:18:59",
+                "breatedby": null,
+                "seq": 10
+            }
+        }
+    ]
+}
+2018-04-10 08:28:07 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-10 10:50:01 Debug: {
+    "id": "c24fffc7-f762-4a7d-822c-75eb222cc44a",
+    "fullname": "\u0e0a\u0e21\u0e1e\u0e39\u0e19\u0e38\u0e0a",
+    "tel": "0901982080",
+    "email": "sutthitum@gmail.com",
+    "lineid": "",
+    "created": "2018-04-10T10:50:01",
+    "customer_assets": [
+        {
+            "id": "293f4d73-68d7-45ef-92c3-9c8028230797",
+            "zone_id": null,
+            "customer_id": "c24fffc7-f762-4a7d-822c-75eb222cc44a",
+            "description": "\u0e2d\u0e32\u0e04\u0e32\u0e23\u0e1e\u0e32\u0e13\u0e34\u0e0a\u0e22\u0e4c 2 \u0e04\u0e39\u0e2b\u0e32 (\u0e17\u0e30\u0e25\u0e38\u0e01\u0e31\u0e19\u0e41\u0e25\u0e49\u0e27) 3 \u0e0a\u0e31\u0e49\u0e19 \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e17\u0e35\u0e48\u0e08\u0e2d\u0e14\u0e23\u0e16\u0e01\u0e27\u0e48\u0e32 50 \u0e04\u0e31\u0e19 \u0e15\u0e34\u0e14\u0e01\u0e31\u0e1a\u0e01\u0e23\u0e21\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19\u0e1b\u0e32\u0e01\u0e40\u0e01\u0e23\u0e47\u0e14 \u0e40\u0e21\u0e37\u0e2d\u0e07\u0e17\u0e2d\u0e07\u0e18\u0e32\u0e19\u0e35",
+            "asset_type_id": "dc4cd80d-b3e4-4538-ade0-e668dc72b6e4",
+            "asset_type_des": "",
+            "created": "2018-04-10T10:50:01",
+            "floor_total": 3,
+            "bedroom": 4,
+            "bathroom": 6,
+            "kitchen_room": 1,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": null,
+            "area_ngan": null,
+            "area_wah": 41.2,
+            "area_meter": 396,
+            "price_per_wah": null,
+            "price_amounnt": 30,
+            "isreqconsult": "N",
+            "type": "S",
+            "budgets": null,
+            "address_id": "735fd321-af9b-488e-be7e-6bc088d91f9c",
+            "asset_type": {
+                "id": "dc4cd80d-b3e4-4538-ade0-e668dc72b6e4",
+                "name": "\u0e15\u0e36\u0e01\u0e41\u0e16\u0e27 \u0e2d\u0e32\u0e04\u0e32\u0e23\u0e1e\u0e32\u0e13\u0e34\u0e0a\u0e22\u0e4c \u0e42\u0e2e\u0e21\u0e2d\u0e2d\u0e1f\u0e1f\u0e34\u0e28",
+                "pic": "1500542009_938143.jpg",
+                "created": "2016-12-17T21:14:07",
+                "breatedby": null,
+                "seq": 30
+            }
+        }
+    ]
+}
+2018-04-10 10:50:01 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-10 11:26:53 Debug: {
+    "id": "a1bc89d8-24c9-405c-89bb-05e95bf65c3d",
+    "fullname": "\u0e19\u0e23\u0e32\u0e28\u0e31\u0e01\u0e14\u0e34\u0e4c \u0e27\u0e23\u0e30\u0e1e\u0e31\u0e19\u0e18\u0e38\u0e4c",
+    "tel": "0891143511",
+    "email": "narasak.w@gmail.com",
+    "lineid": "",
+    "created": "2018-04-10T11:26:53",
+    "customer_assets": [
+        {
+            "id": "61ce6c72-62c9-4ce3-8692-bf640cb42309",
+            "zone_id": "3306241f-2270-4172-a8f2-bed2bc1f6402",
+            "customer_id": "a1bc89d8-24c9-405c-89bb-05e95bf65c3d",
+            "description": "\u0e17\u0e32\u0e07\u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17\u0e1c\u0e21\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19\u0e0b\u0e31\u0e01 \u0e2b\u0e19\u0e36\u0e48\u0e07 \u0e16\u0e36\u0e07\u0e2a\u0e2d\u0e07\u0e44\u0e23\u0e48 \u0e08\u0e30\u0e2a\u0e23\u0e49\u0e32\u0e07 Car Center Service \u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19 \u0e1a\u0e31\u0e04\u0e27\u0e34\u0e01\u0e04\u0e23\u0e31\u0e1a  \u0e2a\u0e19\u0e43\u0e08\u0e2d\u0e22\u0e32\u0e01\u0e44\u0e14\u0e49\u0e40\u0e40\u0e16\u0e27\u0e23\u0e32\u0e21\u0e2d\u0e34\u0e19\u0e17\u0e23\u0e32 \u0e27\u0e31\u0e0a\u0e23\u0e1e\u0e25 \u0e22\u0e31\u0e07\u0e44\u0e07\u0e23\u0e1a\u0e01\u0e27\u0e19\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e1c\u0e21\u0e01\u0e25\u0e31\u0e1a\u0e14\u0e49\u0e27\u0e22\u0e19\u0e30\u0e04\u0e23\u0e31\u0e1a    \u0e19\u0e23\u0e32\u0e28\u0e31\u0e01\u0e14\u0e34\u0e4c   0891143511\r\n",
+            "asset_type_id": "cf8962f0-dbde-42b6-a7c3-484cb106b932",
+            "asset_type_des": "",
+            "created": "2018-04-10T11:26:53",
+            "floor_total": null,
+            "bedroom": null,
+            "bathroom": null,
+            "kitchen_room": null,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": null,
+            "area_ngan": null,
+            "area_wah": null,
+            "area_meter": null,
+            "price_per_wah": null,
+            "price_amounnt": 0,
+            "isreqconsult": "N",
+            "type": "P",
+            "budgets": "",
+            "address_id": null,
+            "asset_type": {
+                "id": "cf8962f0-dbde-42b6-a7c3-484cb106b932",
+                "name": "\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19\u0e40\u0e1b\u0e25\u0e48\u0e32",
+                "pic": "1500545981_385092.jpg",
+                "created": "2016-12-17T21:14:47",
+                "breatedby": null,
+                "seq": 70
+            }
+        }
+    ]
+}
+2018-04-10 11:26:53 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}
+2018-04-10 15:03:59 Debug: {
+    "id": "10382ccc-6b0b-4fee-8f49-1ed0616b30ee",
+    "fullname": "\u0e1e\u0e31\u0e0a\u0e23\u0e1e\u0e25",
+    "tel": "0882206666",
+    "email": "phatcharapol_jen@hotmail.com",
+    "lineid": "jptitle",
+    "created": "2018-04-10T15:03:59",
+    "customer_assets": [
+        {
+            "id": "c11e423a-cb54-4863-a271-b81292f673a4",
+            "zone_id": null,
+            "customer_id": "10382ccc-6b0b-4fee-8f49-1ed0616b30ee",
+            "description": "\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19\u0e40\u0e1b\u0e25\u0e48\u0e32 \u0e43\u0e01\u0e25\u0e49 the mall \u0e1a\u0e32\u0e07\u0e41\u0e04 \u0e43\u0e01\u0e25\u0e49 bts \u0e1a\u0e32\u0e07\u0e2b\u0e27\u0e49\u0e32 \u0e43\u0e01\u0e25\u0e49\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e41\u0e04 \u0e43\u0e01\u0e25\u0e49\u0e28\u0e39\u0e19\u0e22\u0e4c benz \u0e01\u0e32\u0e0d\u0e08\u0e19\u0e32\u0e20\u0e34\u0e40\u0e29\u0e01",
+            "asset_type_id": "cf8962f0-dbde-42b6-a7c3-484cb106b932",
+            "asset_type_des": "",
+            "created": "2018-04-10T15:03:59",
+            "floor_total": null,
+            "bedroom": null,
+            "bathroom": null,
+            "kitchen_room": null,
+            "reception_room": null,
+            "dining_room": null,
+            "maid_room": null,
+            "parking": null,
+            "area_rai": 6,
+            "area_ngan": 3,
+            "area_wah": 84,
+            "area_meter": null,
+            "price_per_wah": null,
+            "price_amounnt": 200,
+            "isreqconsult": "N",
+            "type": "S",
+            "budgets": null,
+            "address_id": "295ec9f3-ae20-4e8e-8a22-8c4236b725ee",
+            "asset_type": {
+                "id": "cf8962f0-dbde-42b6-a7c3-484cb106b932",
+                "name": "\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19\u0e40\u0e1b\u0e25\u0e48\u0e32",
+                "pic": "1500545981_385092.jpg",
+                "created": "2016-12-17T21:14:47",
+                "breatedby": null,
+                "seq": 70
+            }
+        }
+    ]
+}
+2018-04-10 15:03:59 Debug: {
+    "id": "0",
+    "email_receiver_contact": "lovethaihome@gmail.com",
+    "email_receiver_seller": "lovethaihome@gmail.com",
+    "email_receiver_purchase": "lovethaihome@gmail.com",
+    "created": null
+}

@@ -1,0 +1,54 @@
+2016-12-19 22:59:02 Error: [Cake\Console\Exception\MissingShellException] Shell class for "Model" could not be found.
+Exception Attributes: array (
+  'class' => 'Model',
+)
+Stack Trace:
+#0 C:\xampp\htdocs\Dropbox\era\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(223): Cake\Console\ShellDispatcher->findShell('model')
+#1 C:\xampp\htdocs\Dropbox\era\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(182): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 C:\xampp\htdocs\Dropbox\era\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(128): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 C:\xampp\htdocs\Dropbox\era\bin\cake.php(34): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
+2016-12-20 23:29:19 Warning: Warning (2): file_put_contents(C:\xampp\htdocs\Dropbox\era\tmp\bake\Bake-Layout-default-ctp.php): failed to open stream: Invalid argument in [C:\xampp\htdocs\Dropbox\era\vendor\cakephp\bake\src\View\BakeView.php, line 194]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+file_put_contents - [internal], line ??
+Bake\View\BakeView::_evaluate() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 194
+Cake\View\View::_render() - CORE\src\View\View.php, line 973
+Cake\View\View::renderLayout() - CORE\src\View\View.php, line 644
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 144
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT\vendor\cakephp\bake\src\Shell\Task\TemplateTask.php, line 426
+Bake\Shell\Task\TemplateTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\TemplateTask.php, line 152
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 259
+Cake\Collection\Collection::each() - CORE\src\Collection\CollectionTrait.php, line 52
+Bake\Shell\BakeShell::all() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 260
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 452
+Cake\Console\ShellDispatcher::_dispatch() - CORE\src\Console\ShellDispatcher.php, line 227
+Cake\Console\ShellDispatcher::dispatch() - CORE\src\Console\ShellDispatcher.php, line 182
+Cake\Console\ShellDispatcher::run() - CORE\src\Console\ShellDispatcher.php, line 128
+[main] - ROOT\bin\cake.php, line 34
+
+
+
+2017-01-07 15:21:50 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lovethaihome.settings' doesn't exist
+Stack Trace:
+#0 C:\xampp\htdocs\Dropbox\era\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(97): Cake\Database\Schema\Collection->_reflect('Column', 'settings', Array, Object(Cake\Database\Schema\Table))
+#1 C:\xampp\htdocs\Dropbox\era\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(63): Cake\Database\Schema\Collection->describe('settings', Array)
+#2 C:\xampp\htdocs\Dropbox\era\vendor\cakephp\cakephp\src\ORM\Table.php(440): Cake\Database\Schema\CachedCollection->describe('settings')
+#3 C:\xampp\htdocs\Dropbox\era\vendor\cakephp\cakephp\src\ORM\Table.php(518): Cake\ORM\Table->schema()
+#4 C:\xampp\htdocs\Dropbox\era\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(210): Cake\ORM\Table->primaryKey()
+#5 C:\xampp\htdocs\Dropbox\era\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(127): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#6 C:\xampp\htdocs\Dropbox\era\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(110): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'settings', 'Settings')
+#7 C:\xampp\htdocs\Dropbox\era\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(97): Bake\Shell\Task\ModelTask->bake('Settings')
+#8 [internal function]: Bake\Shell\Task\ModelTask->main('settings')
+#9 C:\xampp\htdocs\Dropbox\era\vendor\cakephp\cakephp\src\Console\Shell.php(466): call_user_func_array(Array, Array)
+#10 C:\xampp\htdocs\Dropbox\era\vendor\cakephp\cakephp\src\Console\Shell.php(459): Cake\Console\Shell->runCommand(Array, false, Array)
+#11 C:\xampp\htdocs\Dropbox\era\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(227): Cake\Console\Shell->runCommand(Array, true, Array)
+#12 C:\xampp\htdocs\Dropbox\era\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(182): Cake\Console\ShellDispatcher->_dispatch(Array)
+#13 C:\xampp\htdocs\Dropbox\era\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(128): Cake\Console\ShellDispatcher->dispatch(Array)
+#14 C:\xampp\htdocs\Dropbox\era\bin\cake.php(34): Cake\Console\ShellDispatcher::run(Array)
+#15 {main}
+
+

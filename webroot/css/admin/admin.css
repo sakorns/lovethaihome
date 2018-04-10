@@ -1,0 +1,38 @@
+.error-message{
+    color:red;
+}
+.f-color-black{
+    color:#000000 !important;
+}
+.f-color-gray{
+    color:#9b9a99 !important;
+}
+
+.f-color-blue{
+    color:#0d479c !important;
+}
+.f-color-white{
+    color:#FFFFFF !important;
+}
+.f-color-red{
+    color:#e01a33 !important;
+}
+
+
+.cake-debug-output{
+    padding-left: 300px !important;
+    padding-top: 100px !important;;
+}
+
+
+.header-title{
+    border-bottom: 2px solid #9E9E9E;
+    padding-bottom: 6px;
+    margin-top: 30px;
+    color:#e01a33 !important;
+}
+
+
+.paddin-0{
+    padding:0!important;
+}
